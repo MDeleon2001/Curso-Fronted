@@ -1,0 +1,10 @@
+El archivo index.html suele ser la pagina principal de cualquier sitio web.
+Un documento HTML esta formado los elementos "html", "head" y "body"
+</p> Es el elemento parrafo
+<html lang="es">  Podemos configurar el lenguaje
+<head> Nos permite configurar el documento HTML
+<h1>Primer titulo</h1>  Permite variar el tamaño de un titulo
+<h2>Segundo titulo</h2>
+<h3>Tercer titulo</h3>
+Atributo: Completan o dan más informacion de lo que nececita un elemnto
+<img src="RUTA DE IMAGEN" alt="TEXTO QUE SE MUESTRA SI NO SE CARGA LA IMAGEN">
